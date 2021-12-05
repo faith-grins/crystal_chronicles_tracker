@@ -1,0 +1,982 @@
+Name,Dungeon,Cycle,Type,BonusTier
+Aegis,Daemon's Court,3,Boss,4
+Ashura,Goblin Wall,1,Boss,3
+Ashura,Goblin Wall,2,Boss,1
+Ashura,The Mushroom Forest,3,Boss,4
+Ashura,Tida,1,C,
+Ashura,Moschet Manor,1,C,
+Ashura,Veo Lu Sluice,1,C,
+Ashura,Selepation Cave,1,Boss,2
+Ashura,Lynari Desert,1,C,
+Black Hood,River Belle Path,2,C,
+Black Hood,River Belle Path,2,Boss,4
+Black Hood,River Belle Path,3,C,
+Black Hood,River Belle Path,3,Boss,2
+Black Hood,Goblin Wall,2,C,
+Black Hood,Goblin Wall,3,C,
+Black Hood,The Mushroom Forest,1,Boss,4
+Black Hood,The Mushroom Forest,2,C,
+Black Hood,The Mushroom Forest,2,Boss,2
+Black Hood,The Mushroom Forest,3,C,
+Black Hood,The Mine of Cathuriges,1,Boss,4
+Black Hood,The Mine of Cathuriges,2,C,
+Black Hood,The Mine of Cathuriges,2,Boss,2
+Black Hood,The Mine of Cathuriges,3,C,
+Black Hood,Moschet Manor,1,Boss,3
+Black Hood,Moschet Manor,2,Boss,1
+Black Hood,Selepation Cave,2,Boss,3
+Black Hood,Selepation Cave,3,Boss,1
+Black Hood,Rebena Te Ra,1,Boss,2
+Black Hood,Kilanda,1,M,
+Black Hood,Kilanda,2,M,
+Black Hood,Lynari Desert,1,Boss,2
+Book of Light,Moschet Manor,1,Boss,3
+Book of Light,Moschet Manor,2,Boss,1
+Book of Light,Veo Lu Sluice,1,C,
+Book of Light,Selepation Cave,1,C,
+Book of Light,Daemon's Court,1,C,
+Book of Light,Daemon's Court,3,C,
+Book of Light,Kilanda,1,Boss,1
+Book of Light,Lynari Desert,1,C,
+Buckler,River Belle Path,1,C,
+Buckler,River Belle Path,1,Boss,1
+Buckler,River Belle Path,1,Boss,3
+Buckler,River Belle Path,2,C,
+Buckler,River Belle Path,2,Boss,1
+Buckler,River Belle Path,3,C,
+Buckler,Goblin Wall,1,C,
+Buckler,The Mushroom Forest,1,C,
+Buckler,The Mushroom Forest,1,Boss,1
+Buckler,The Mushroom Forest,1,Boss,3
+Buckler,The Mushroom Forest,2,Boss,1
+Buckler,The Mine of Cathuriges,1,C,
+Buckler,The Mine of Cathuriges,1,Boss,1
+Buckler,The Mine of Cathuriges,1,Boss,3
+Buckler,The Mine of Cathuriges,2,Boss,1
+Buckler,Moschet Manor,1,Boss,1
+Buckler,Veo Lu Sluice,1,Boss,1
+Buckler,Daemon's Court,1,Boss,1
+Buckler,Kilanda,1,M,
+Candy Ring,Goblin Wall,3,Boss,3
+Candy Ring,Moschet Manor,2,C,
+Candy Ring,Moschet Manor,3,C,
+Candy Ring,Moschet Manor,3,Boss,4
+Candy Ring,Veo Lu Sluice,3,Boss,4
+Candy Ring,Daemon's Court,1,Boss,3
+Candy Ring,Daemon's Court,2,Boss,1
+Candy Ring,Conall Curach,1,C,
+Candy Ring,Conall Curach,2,C,
+Cat's Bell,River Belle Path,1,M,
+Cat's Bell,River Belle Path,2,M,
+Cat's Bell,Goblin Wall,1,C,
+Cat's Bell,Goblin Wall,2,C,
+Cat's Bell,The Mushroom Forest,1,C,
+Cat's Bell,The Mushroom Forest,2,C,
+Cat's Bell,The Mushroom Forest,2,Boss,3
+Cat's Bell,The Mushroom Forest,3,Boss,1
+Cat's Bell,The Mushroom Forest,3,Boss,4
+Cat's Bell,The Mine of Cathuriges,1,M,
+Cat's Bell,The Mine of Cathuriges,2,M,
+Cat's Bell,The Mine of Cathuriges,2,Boss,3
+Cat's Bell,The Mine of Cathuriges,3,Boss,1
+Cat's Bell,Tida,1,C,
+Cat's Bell,Tida,1,Boss,4
+Cat's Bell,Tida,2,C,
+Cat's Bell,Tida,2,Boss,2
+Cat's Bell,Tida,3,Boss,4
+Cat's Bell,Veo Lu Sluice,1,Boss,3
+Cat's Bell,Veo Lu Sluice,2,Boss,1
+Cat's Bell,Selepation Cave,1,C,
+Cat's Bell,Selepation Cave,2,C,
+Cat's Bell,Daemon's Court,1,C,
+Cat's Bell,Daemon's Court,2,C,
+Cat's Bell,Rebena Te Ra,2,C,
+Cat's Bell,Rebena Te Ra,3,C,
+Cat's Bell,Kilanda,1,M,
+Cat's Bell,Kilanda,1,Boss,4
+Cat's Bell,Kilanda,2,Boss,2
+Chicken Knife,Veo Lu Sluice,3,C,
+Chicken Knife,Selepation Cave,3,C,
+Chicken Knife,Daemon's Court,3,C,
+Chicken Knife,Conall Curach,3,C,
+Chicken Knife,Rebena Te Ra,1,Boss,3
+Chicken Knife,Rebena Te Ra,2,Boss,1
+Chicken Knife,Rebena Te Ra,3,C,
+Chicken Knife,Kilanda,2,M,
+Chicken Knife,Kilanda,2,Boss,3
+Chicken Knife,Kilanda,3,M,
+Chicken Knife,Kilanda,3,Boss,1
+Chicken Knife,Lynari Desert,1,Boss,3
+Chicken Knife,Lynari Desert,2,Boss,1
+Chocobo Pocket,Tida,1,C,
+Chocobo Pocket,Tida,1,Boss,1
+Chocobo Pocket,Tida,1,Boss,3
+Chocobo Pocket,Tida,2,C,
+Chocobo Pocket,Tida,2,Boss,1
+Chocobo Pocket,Tida,3,C,
+Chocobo Pocket,Tida,3,Boss,3
+Chocobo Pocket,Moschet Manor,1,M,
+Chocobo Pocket,Moschet Manor,1,Boss,1
+Chocobo Pocket,Moschet Manor,1,Boss,4
+Chocobo Pocket,Moschet Manor,2,Boss,2
+Chocobo Pocket,Moschet Manor,2,Boss,3
+Chocobo Pocket,Moschet Manor,3,Boss,1
+Chocobo Pocket,Moschet Manor,3,Boss,3
+Chocobo Pocket,Moschet Manor,3,Boss,4
+Chocobo Pocket,Selepation Cave,1,Boss,1
+Chocobo Pocket,Daemon's Court,1,C,
+Chocobo Pocket,Daemon's Court,1,Boss,1
+Chocobo Pocket,Daemon's Court,1,Boss,3
+Chocobo Pocket,Daemon's Court,2,C,
+Chocobo Pocket,Daemon's Court,2,Boss,1
+Chocobo Pocket,Daemon's Court,2,Boss,4
+Chocobo Pocket,Daemon's Court,3,C,
+Chocobo Pocket,Daemon's Court,3,Boss,2
+Dark Matter,Goblin Wall,1,Boss,4
+Dark Matter,Goblin Wall,2,Boss,2
+Dark Matter,Moschet Manor,3,C,
+Dark Matter,Veo Lu Sluice,3,C,
+Dark Matter,Daemon's Court,2,Boss,4
+Dark Matter,Daemon's Court,3,Boss,2
+Dark Matter,Conall Curach,3,C,
+Dark Matter,Lynari Desert,2,C,
+Dark Matter,Lynari Desert,2,Boss,3
+Dark Matter,Lynari Desert,3,C,
+Dark Matter,Lynari Desert,3,Boss,1
+Double Axe,River Belle Path,1,M,
+Double Axe,River Belle Path,1,Boss,3
+Double Axe,River Belle Path,2,M,
+Double Axe,River Belle Path,2,Boss,1
+Double Axe,Goblin Wall,1,C,
+Double Axe,Goblin Wall,1,Boss,1
+Double Axe,Goblin Wall,2,C,
+Double Axe,The Mushroom Forest,1,C,
+Double Axe,The Mushroom Forest,1,Boss,4
+Double Axe,The Mushroom Forest,2,C,
+Double Axe,The Mushroom Forest,2,Boss,2
+Double Axe,The Mushroom Forest,3,Boss,3
+Double Axe,The Mine of Cathuriges,1,M,
+Double Axe,The Mine of Cathuriges,1,Boss,4
+Double Axe,The Mine of Cathuriges,2,M,
+Double Axe,The Mine of Cathuriges,2,Boss,2
+Double Axe,Daemon's Court,1,Boss,4
+Double Axe,Daemon's Court,2,Boss,2
+Double Axe,Lynari Desert,1,C,
+Double Axe,Lynari Desert,2,C,
+Dragon's Wisker,River Belle Path,1,M,
+Dragon's Wisker,River Belle Path,1,Boss,1
+Dragon's Wisker,River Belle Path,3,Boss,3
+Dragon's Wisker,Goblin Wall,1,C,
+Dragon's Wisker,The Mushroom Forest,1,C,
+Dragon's Wisker,The Mushroom Forest,1,Boss,1
+Dragon's Wisker,The Mine of Cathuriges,1,M,
+Dragon's Wisker,The Mine of Cathuriges,1,Boss,1
+Dragon's Wisker,Tida,1,C,
+Dragon's Wisker,Tida,1,Boss,1
+Dragon's Wisker,Veo Lu Sluice,1,C,
+Dragon's Wisker,Selepation Cave,1,Boss,1
+Dragon's Wisker,Daemon's Court,1,Boss,4
+Dragon's Wisker,Daemon's Court,2,Boss,2
+Dragon's Wisker,Lynari Desert,1,C,
+Drill,Veo Lu Sluice,1,C,
+Drill,Selepation Cave,1,C,
+Drill,Daemon's Court,1,C,
+Drill,Rebena Te Ra,3,Boss,4
+Drill,Kilanda,1,Boss,1
+Drill,Kilanda,1,Boss,3
+Drill,Kilanda,1,Boss,4
+Drill,Kilanda,2,Boss,2
+Drill,Lynari Desert,1,C,
+Earth Pendant,River Belle Path,2,M,
+Earth Pendant,River Belle Path,3,M,
+Earth Pendant,Goblin Wall,1,C,
+Earth Pendant,Goblin Wall,1,Boss,1
+Earth Pendant,Goblin Wall,2,C,
+Earth Pendant,Goblin Wall,3,C,
+Earth Pendant,The Mushroom Forest,1,C,
+Earth Pendant,The Mushroom Forest,1,Boss,1
+Earth Pendant,The Mushroom Forest,1,Boss,3
+Earth Pendant,The Mushroom Forest,2,C,
+Earth Pendant,The Mushroom Forest,2,Boss,1
+Earth Pendant,The Mushroom Forest,3,C,
+Earth Pendant,The Mushroom Forest,3,Boss,4
+Earth Pendant,The Mine of Cathuriges,1,C,
+Earth Pendant,The Mine of Cathuriges,1,Boss,1
+Earth Pendant,The Mine of Cathuriges,1,Boss,3
+Earth Pendant,The Mine of Cathuriges,2,C,
+Earth Pendant,The Mine of Cathuriges,2,Boss,1
+Earth Pendant,The Mine of Cathuriges,3,C,
+Earth Pendant,The Mine of Cathuriges,3,Boss,4
+Earth Pendant,Moschet Manor,1,M,
+Earth Pendant,Moschet Manor,1,Boss,2
+Earth Pendant,Moschet Manor,2,M,
+Earth Pendant,Moschet Manor,3,M,
+Elven Mantle,Tida,1,Boss,3
+Elven Mantle,Tida,2,C,
+Elven Mantle,Tida,2,Boss,1
+Elven Mantle,Tida,3,C,
+Elven Mantle,Moschet Manor,2,C,
+Elven Mantle,Moschet Manor,3,C,
+Elven Mantle,Veo Lu Sluice,1,Boss,3
+Elven Mantle,Veo Lu Sluice,2,Boss,1
+Elven Mantle,Rebena Te Ra,1,C,
+Elven Mantle,Rebena Te Ra,2,C,
+Elven Mantle,Rebena Te Ra,2,Boss,3
+Elven Mantle,Rebena Te Ra,3,Boss,1
+Elven Mantle,Lynari Desert,2,Boss,3
+Elven Mantle,Lynari Desert,3,Boss,1
+Engetsurin,Goblin Wall,2,Boss,4
+Engetsurin,Goblin Wall,3,Boss,2
+Engetsurin,Tida,3,C,
+Engetsurin,Moschet Manor,3,C,
+Engetsurin,Veo Lu Sluice,2,C,
+Engetsurin,Veo Lu Sluice,3,C,
+Engetsurin,Daemon's Court,1,C,
+Engetsurin,Daemon's Court,2,C,
+Engetsurin,Conall Curach,3,Boss,4
+Engetsurin,Rebena Te Ra,2,C,
+Engetsurin,Rebena Te Ra,3,C,
+Engetsurin,Rebena Te Ra,3,Boss,3
+Engetsurin,Kilanda,1,M,
+Engetsurin,Kilanda,1,Boss,1
+Engetsurin,Kilanda,2,M,
+Engetsurin,Lynari Desert,3,Boss,3
+Faerie Ring,Goblin Wall,1,Boss,3
+Faerie Ring,Goblin Wall,2,Boss,1
+Faerie Ring,The Mine of Cathuriges,3,Boss,3
+Faerie Ring,Moschet Manor,1,C,
+Faerie Ring,Moschet Manor,2,Boss,4
+Faerie Ring,Moschet Manor,3,Boss,2
+Faerie Ring,Veo Lu Sluice,1,Boss,4
+Faerie Ring,Veo Lu Sluice,2,Boss,2
+Faerie Ring,Selepation Cave,2,C,
+Faerie Ring,Selepation Cave,3,C,
+Faerie Ring,Daemon's Court,1,C,
+Faerie Ring,Daemon's Court,2,C,
+Faerie Ring,Conall Curach,1,C,
+Faerie Ring,Kilanda,1,M,
+Fang Charm,Goblin Wall,1,Boss,4
+Fang Charm,Goblin Wall,2,Boss,2
+Fang Charm,Goblin Wall,3,Boss,3
+Fang Charm,Tida,2,C,
+Fang Charm,Tida,3,C,
+Fang Charm,Moschet Manor,1,Boss,3
+Fang Charm,Moschet Manor,2,C,
+Fang Charm,Moschet Manor,2,Boss,1
+Fang Charm,Moschet Manor,3,C,
+Fang Charm,Veo Lu Sluice,1,Boss,3
+Fang Charm,Veo Lu Sluice,2,Boss,1
+Fang Charm,Veo Lu Sluice,3,Boss,4
+Fang Charm,Daemon's Court,1,C,
+Fang Charm,Rebena Te Ra,1,C,
+Fang Charm,Rebena Te Ra,2,C,
+Fang Charm,Kilanda,1,Boss,4
+Fang Charm,Kilanda,2,Boss,2
+Fang Charm,Lynari Desert,1,C,
+Flametongue,River Belle Path,2,M,
+Flametongue,River Belle Path,2,Boss,4
+Flametongue,River Belle Path,3,M,
+Flametongue,River Belle Path,3,Boss,2
+Flametongue,Goblin Wall,2,C,
+Flametongue,Goblin Wall,3,C,
+Flametongue,The Mushroom Forest,1,Boss,2
+Flametongue,The Mushroom Forest,2,C,
+Flametongue,The Mushroom Forest,3,C,
+Flametongue,The Mine of Cathuriges,2,M,
+Flametongue,The Mine of Cathuriges,3,M,
+Flametongue,Moschet Manor,1,C,
+Flametongue,Moschet Manor,1,Boss,1
+Flametongue,Moschet Manor,2,C,
+Flametongue,Daemon's Court,3,Boss,3
+Flametongue,Conall Curach,1,Boss,2
+Flametongue,Conall Curach,2,C,
+Flametongue,Conall Curach,3,C,
+Flametongue,Rebena Te Ra,1,Boss,2
+Flametongue,Kilanda,1,M,
+Flametongue,Kilanda,2,Boss,4
+Flametongue,Kilanda,3,Boss,2
+Flametongue,Lynari Desert,1,Boss,2
+Galatyn,Goblin Wall,3,Boss,4
+Gekkabijin,Moschet Manor,3,Boss,4
+Giant's Glove,Tida,2,Boss,3
+Giant's Glove,Tida,3,Boss,1
+Giant's Glove,Daemon's Court,2,Boss,3
+Giant's Glove,Daemon's Court,3,C,
+Giant's Glove,Daemon's Court,3,Boss,1
+Giant's Glove,Conall Curach,1,Boss,1
+Giant's Glove,Conall Curach,3,C,
+Giant's Glove,Rebena Te Ra,3,C,
+Giant's Glove,Kilanda,1,M,
+Giant's Glove,Kilanda,2,M,
+Giant's Glove,Lynari Desert,3,C,
+Goblin Pocket,Conall Curach,1,Boss,1
+Goblin Pocket,Rebena Te Ra,1,C,
+Goblin Pocket,Rebena Te Ra,1,Boss,2
+Goblin Pocket,Rebena Te Ra,1,Boss,4
+Goblin Pocket,Rebena Te Ra,2,C,
+Goblin Pocket,Rebena Te Ra,2,Boss,2
+Goblin Pocket,Rebena Te Ra,2,Boss,4
+Goblin Pocket,Rebena Te Ra,3,C,
+Goblin Pocket,Rebena Te Ra,3,Boss,2
+Goblin Pocket,Lynari Desert,1,C,
+Goblin Pocket,Lynari Desert,1,Boss,2
+Goblin Pocket,Lynari Desert,1,Boss,3
+Goblin Pocket,Lynari Desert,2,C,
+Goblin Pocket,Lynari Desert,2,Boss,1
+Goblin Pocket,Lynari Desert,3,C,
+Goblin Pocket,Lynari Desert,3,Boss,3
+Gold Hairpin,Selepation Cave,2,Boss,4
+Gold Hairpin,Selepation Cave,3,C,
+Gold Hairpin,Selepation Cave,3,Boss,2
+Gold Hairpin,Daemon's Court,2,C,
+Gold Hairpin,Daemon's Court,3,C,
+Gold Hairpin,Conall Curach,1,Boss,2
+Gold Hairpin,Conall Curach,2,Boss,3
+Gold Hairpin,Conall Curach,3,Boss,1
+Gold Hairpin,Rebena Te Ra,3,C,
+Gold Hairpin,Kilanda,3,M,
+Gold Hairpin,Lynari Desert,3,C,
+Green Beret,River Belle Path,1,M,
+Green Beret,River Belle Path,2,M,
+Green Beret,Goblin Wall,1,C,
+Green Beret,Goblin Wall,2,C,
+Green Beret,Goblin Wall,3,Boss,4
+Green Beret,The Mushroom Forest,1,C,
+Green Beret,The Mushroom Forest,2,C,
+Green Beret,The Mine of Cathuriges,1,M,
+Green Beret,The Mine of Cathuriges,2,M,
+Green Beret,The Mine of Cathuriges,2,Boss,4
+Green Beret,The Mine of Cathuriges,3,Boss,2
+Green Beret,Moschet Manor,1,Boss,2
+Green Beret,Veo Lu Sluice,1,Boss,2
+Green Beret,Veo Lu Sluice,3,Boss,3
+Green Beret,Selepation Cave,1,C,
+Green Beret,Conall Curach,1,C,
+Green Beret,Conall Curach,2,C,
+Green Beret,Kilanda,1,Boss,3
+Green Beret,Kilanda,2,Boss,1
+Heavy Armband,Veo Lu Sluice,2,Boss,3
+Heavy Armband,Veo Lu Sluice,3,Boss,1
+Heavy Armband,Selepation Cave,2,C,
+Heavy Armband,Selepation Cave,3,C,
+Heavy Armband,Daemon's Court,2,C,
+Heavy Armband,Daemon's Court,3,C,
+Heavy Armband,Conall Curach,3,C,
+Heavy Armband,Rebena Te Ra,2,C,
+Heavy Armband,Rebena Te Ra,3,C,
+Heavy Armband,Kilanda,2,M,
+Heavy Armband,Kilanda,3,M,
+Heavy Armband,Lynari Desert,1,Boss,4
+Heavy Armband,Lynari Desert,2,Boss,2
+Helm of Arai,Goblin Wall,1,Boss,3
+Helm of Arai,Goblin Wall,2,Boss,1
+Helm of Arai,Goblin Wall,2,Boss,3
+Helm of Arai,Goblin Wall,2,Boss,4
+Helm of Arai,Goblin Wall,3,Boss,1
+Helm of Arai,Goblin Wall,3,Boss,2
+Helm of Arai,Tida,1,C,
+Helm of Arai,Tida,2,C,
+Helm of Arai,Moschet Manor,1,C,
+Helm of Arai,Moschet Manor,1,Boss,4
+Helm of Arai,Moschet Manor,2,C,
+Helm of Arai,Moschet Manor,2,Boss,2
+Helm of Arai,Rebena Te Ra,1,Boss,4
+Helm of Arai,Rebena Te Ra,2,Boss,2
+Helm of Arai,Lynari Desert,1,C,
+Helm of Arai,Lynari Desert,1,Boss,4
+Helm of Arai,Lynari Desert,2,C,
+Helm of Arai,Lynari Desert,2,Boss,2
+Ice Brand,River Belle Path,1,Boss,4
+Ice Brand,River Belle Path,2,M,
+Ice Brand,River Belle Path,2,Boss,2
+Ice Brand,River Belle Path,3,M,
+Ice Brand,Goblin Wall,2,C,
+Ice Brand,Goblin Wall,3,C,
+Ice Brand,The Mushroom Forest,2,C,
+Ice Brand,The Mushroom Forest,3,C,
+Ice Brand,The Mine of Cathuriges,2,M,
+Ice Brand,The Mine of Cathuriges,3,M,
+Ice Brand,Tida,1,C,
+Ice Brand,Tida,2,C,
+Ice Brand,Moschet Manor,2,Boss,3
+Ice Brand,Moschet Manor,3,Boss,1
+Ice Brand,Veo Lu Sluice,1,Boss,1
+Ice Brand,Daemon's Court,3,Boss,4
+Ice Brand,Conall Curach,1,Boss,3
+Ice Brand,Conall Curach,2,Boss,1
+Ice Brand,Rebena Te Ra,1,C,
+Ice Brand,Rebena Te Ra,1,Boss,3
+Ice Brand,Rebena Te Ra,2,C,
+Ice Brand,Rebena Te Ra,2,Boss,1
+Ice Brand,Lynari Desert,1,Boss,3
+Ice Brand,Lynari Desert,2,C,
+Ice Brand,Lynari Desert,2,Boss,1
+Ice Brand,Lynari Desert,3,C,
+Kaiser Knuckles,Goblin Wall,1,Boss,2
+Kaiser Knuckles,The Mine of Cathuriges,3,Boss,3
+Kaiser Knuckles,Tida,1,C,
+Kaiser Knuckles,Tida,2,C,
+Kaiser Knuckles,Moschet Manor,1,C,
+Kaiser Knuckles,Moschet Manor,1,Boss,4
+Kaiser Knuckles,Moschet Manor,2,C,
+Kaiser Knuckles,Moschet Manor,2,Boss,2
+Kaiser Knuckles,Veo Lu Sluice,1,C,
+Kaiser Knuckles,Selepation Cave,1,Boss,3
+Kaiser Knuckles,Selepation Cave,2,Boss,1
+Kaiser Knuckles,Conall Curach,1,C,
+Kris,River Belle Path,1,Boss,3
+Kris,River Belle Path,2,M,
+Kris,River Belle Path,2,Boss,1
+Kris,River Belle Path,3,M,
+Kris,Goblin Wall,2,C,
+Kris,Goblin Wall,3,C,
+Kris,The Mushroom Forest,2,C,
+Kris,The Mushroom Forest,3,C,
+Kris,The Mine of Cathuriges,2,M,
+Kris,The Mine of Cathuriges,3,M,
+Kris,Tida,1,Boss,2
+Kris,Tida,2,C,
+Kris,Tida,3,C,
+Kris,Veo Lu Sluice,1,C,
+Kris,Veo Lu Sluice,2,C,
+Kris,Selepation Cave,2,Boss,3
+Kris,Selepation Cave,3,Boss,1
+Kris,Daemon's Court,3,Boss,3
+Kris,Conall Curach,2,Boss,4
+Kris,Conall Curach,3,Boss,2
+Kris,Rebena Te Ra,2,Boss,3
+Kris,Rebena Te Ra,3,Boss,1
+Kris,Kilanda,1,Boss,2
+Kris,Kilanda,2,M,
+Kris,Kilanda,3,M,
+Kris,Lynari Desert,2,Boss,4
+Kris,Lynari Desert,3,Boss,2
+Loaded Dice,River Belle Path,2,Boss,3
+Loaded Dice,River Belle Path,3,M,
+Loaded Dice,River Belle Path,3,Boss,1
+Loaded Dice,Goblin Wall,3,C,
+Loaded Dice,The Mushroom Forest,3,C,
+Loaded Dice,The Mine of Cathuriges,1,Boss,2
+Loaded Dice,The Mine of Cathuriges,3,M,
+Loaded Dice,Veo Lu Sluice,2,Boss,4
+Loaded Dice,Veo Lu Sluice,3,Boss,2
+Loaded Dice,Selepation Cave,3,Boss,3
+Loaded Dice,Daemon's Court,1,Boss,1
+Loaded Dice,Conall Curach,1,C,
+Loaded Dice,Conall Curach,1,Boss,4
+Loaded Dice,Conall Curach,2,C,
+Loaded Dice,Conall Curach,2,Boss,2
+Loaded Dice,Rebena Te Ra,1,Boss,4
+Loaded Dice,Rebena Te Ra,2,Boss,2
+Loaded Dice,Lynari Desert,1,C,
+Loaded Dice,Lynari Desert,2,C,
+Loaded Dice,Lynari Desert,2,Boss,3
+Loaded Dice,Lynari Desert,3,Boss,1
+Mage Masher,River Belle Path,1,M,
+Mage Masher,River Belle Path,1,Boss,2
+Mage Masher,River Belle Path,3,Boss,4
+Mage Masher,Goblin Wall,1,C,
+Mage Masher,The Mushroom Forest,1,C,
+Mage Masher,The Mushroom Forest,1,Boss,2
+Mage Masher,The Mine of Cathuriges,1,M,
+Mage Masher,The Mine of Cathuriges,1,Boss,2
+Mage Masher,Tida,1,C,
+Mage Masher,Selepation Cave,1,C,
+Mage Masher,Selepation Cave,1,Boss,3
+Mage Masher,Selepation Cave,2,Boss,1
+Mage Masher,Conall Curach,1,C,
+Mage Masher,Rebena Te Ra,2,C,
+Mage Masher,Rebena Te Ra,3,C,
+Mage's Staff,River Belle Path,2,Boss,3
+Mage's Staff,River Belle Path,3,M,
+Mage's Staff,River Belle Path,3,Boss,1
+Mage's Staff,Goblin Wall,3,C,
+Mage's Staff,The Mushroom Forest,3,C,
+Mage's Staff,The Mine of Cathuriges,2,Boss,4
+Mage's Staff,The Mine of Cathuriges,3,M,
+Mage's Staff,The Mine of Cathuriges,3,Boss,2
+Mage's Staff,Tida,3,C,
+Mage's Staff,Moschet Manor,2,Boss,4
+Mage's Staff,Moschet Manor,3,Boss,2
+Mage's Staff,Daemon's Court,2,C,
+Mage's Staff,Daemon's Court,3,C,
+Mage's Staff,Rebena Te Ra,1,Boss,2
+Mage's Staff,Rebena Te Ra,3,C,
+Mage's Staff,Kilanda,2,Boss,4
+Mage's Staff,Kilanda,3,Boss,2
+Mage's Staff,Lynari Desert,2,C,
+Mage's Staff,Lynari Desert,3,C,
+Main Gauche,Veo Lu Sluice,1,C,
+Main Gauche,Veo Lu Sluice,2,C,
+Main Gauche,Selepation Cave,1,C,
+Main Gauche,Selepation Cave,2,C,
+Main Gauche,Daemon's Court,1,C,
+Main Gauche,Daemon's Court,2,C,
+Main Gauche,Conall Curach,1,C,
+Main Gauche,Conall Curach,2,C,
+Main Gauche,Rebena Te Ra,1,Boss,1
+Main Gauche,Kilanda,1,Boss,3
+Main Gauche,Kilanda,2,Boss,1
+Main Gauche,Kilanda,3,Boss,4
+Main Gauche,Lynari Desert,1,Boss,1
+Maneater,River Belle Path,1,M,
+Maneater,River Belle Path,1,Boss,2
+Maneater,River Belle Path,3,Boss,4
+Maneater,Goblin Wall,1,C,
+Maneater,The Mushroom Forest,1,C,
+Maneater,The Mushroom Forest,1,Boss,3
+Maneater,The Mushroom Forest,2,Boss,1
+Maneater,The Mine of Cathuriges,1,M,
+Maneater,The Mine of Cathuriges,1,Boss,3
+Maneater,The Mine of Cathuriges,2,Boss,1
+Maneater,Tida,1,C,
+Maneater,Tida,1,Boss,3
+Maneater,Tida,2,Boss,1
+Maneater,Daemon's Court,1,Boss,3
+Maneater,Daemon's Court,2,Boss,1
+Maneater,Conall Curach,1,C,
+Masamune,Kilanda,3,Boss,4
+Masquerade,Moschet Manor,2,Boss,4
+Masquerade,Moschet Manor,3,Boss,2
+Masquerade,Veo Lu Sluice,3,C,
+Masquerade,Selepation Cave,3,C,
+Masquerade,Daemon's Court,2,C,
+Masquerade,Daemon's Court,3,C,
+Masquerade,Rebena Te Ra,2,Boss,3
+Masquerade,Rebena Te Ra,3,Boss,1
+Masquerade,Kilanda,3,M,
+Masquerade,Lynari Desert,1,Boss,1
+Masquerade,Lynari Desert,3,C,
+Mjollnir,Goblin Wall,2,Boss,3
+Mjollnir,Goblin Wall,3,Boss,1
+Mjollnir,Tida,3,C,
+Mjollnir,Moschet Manor,3,C,
+Mjollnir,Selepation Cave,2,C,
+Mjollnir,Selepation Cave,3,C,
+Mjollnir,Conall Curach,2,C,
+Mjollnir,Conall Curach,3,C,
+Mjollnir,Rebena Te Ra,1,Boss,1
+Mjollnir,Kilanda,2,Boss,3
+Mjollnir,Kilanda,3,Boss,1
+Moogle Pocket,River Belle Path,1,M,
+Moogle Pocket,River Belle Path,1,Boss,1
+Moogle Pocket,River Belle Path,1,Boss,2
+Moogle Pocket,River Belle Path,2,M,
+Moogle Pocket,River Belle Path,3,M,
+Moogle Pocket,Goblin Wall,1,C,
+Moogle Pocket,Goblin Wall,1,Boss,3
+Moogle Pocket,Goblin Wall,1,Boss,4
+Moogle Pocket,Goblin Wall,2,C,
+Moogle Pocket,Goblin Wall,2,Boss,1
+Moogle Pocket,Goblin Wall,2,Boss,2
+Moogle Pocket,Goblin Wall,3,C,
+Moogle Pocket,The Mushroom Forest,1,C,
+Moogle Pocket,The Mushroom Forest,1,Boss,2
+Moogle Pocket,The Mushroom Forest,1,Boss,4
+Moogle Pocket,The Mushroom Forest,2,Boss,2
+Moogle Pocket,The Mushroom Forest,3,C,
+Moogle Pocket,The Mushroom Forest,3,Boss,3
+Moogle Pocket,The Mine of Cathuriges,1,Boss,2
+Moogle Pocket,The Mine of Cathuriges,1,Boss,4
+Moogle Pocket,The Mine of Cathuriges,2,C,
+Moogle Pocket,The Mine of Cathuriges,2,Boss,2
+Moogle Pocket,The Mine of Cathuriges,3,C,
+Moogle Pocket,Tida,1,C,
+Moogle Pocket,Tida,1,Boss,2
+Moogle Pocket,Tida,2,C,
+Moogle Pocket,Tida,3,C,
+Moon Pendant,Moschet Manor,1,Boss,3
+Moon Pendant,Moschet Manor,2,Boss,1
+Moon Pendant,Moschet Manor,2,Boss,3
+Moon Pendant,Moschet Manor,3,M,
+Moon Pendant,Moschet Manor,3,Boss,1
+Moon Pendant,Veo Lu Sluice,1,M,
+Moon Pendant,Veo Lu Sluice,1,Boss,2
+Moon Pendant,Veo Lu Sluice,1,Boss,3
+Moon Pendant,Veo Lu Sluice,2,M,
+Moon Pendant,Veo Lu Sluice,2,Boss,1
+Moon Pendant,Veo Lu Sluice,2,Boss,2
+Moon Pendant,Veo Lu Sluice,3,Boss,1
+Moon Pendant,Selepation Cave,1,C,
+Moon Pendant,Selepation Cave,1,Boss,3
+Moon Pendant,Selepation Cave,2,C,
+Moon Pendant,Selepation Cave,2,Boss,1
+Moon Pendant,Daemon's Court,1,C,
+Moon Pendant,Daemon's Court,2,C,
+Moon Pendant,Daemon's Court,2,Boss,3
+Moon Pendant,Daemon's Court,3,C,
+Moon Pendant,Daemon's Court,3,Boss,1
+Moon Pendant,Kilanda,1,M,
+Moon Pendant,Kilanda,1,Boss,1
+Moon Pendant,Kilanda,2,M,
+Moon Pendant,Kilanda,3,M,
+Murasame,The Mine of Cathuriges,3,Boss,4
+Noah's Lute,Goblin Wall,2,Boss,4
+Noah's Lute,Goblin Wall,3,Boss,2
+Noah's Lute,Moschet Manor,3,C,
+Noah's Lute,Veo Lu Sluice,2,Boss,4
+Noah's Lute,Veo Lu Sluice,3,Boss,2
+Noah's Lute,Daemon's Court,3,C,
+Noah's Lute,Conall Curach,2,C,
+Noah's Lute,Conall Curach,3,C,
+Noah's Lute,Rebena Te Ra,2,Boss,4
+Noah's Lute,Rebena Te Ra,3,Boss,2
+Noah's Lute,Kilanda,1,M,
+Noah's Lute,Kilanda,2,M,
+Noah's Lute,Lynari Desert,1,Boss,2
+Ogrekiller,Tida,2,C,
+Ogrekiller,Tida,3,C,
+Ogrekiller,Moschet Manor,2,C,
+Ogrekiller,Moschet Manor,3,C,
+Ogrekiller,Veo Lu Sluice,2,C,
+Ogrekiller,Veo Lu Sluice,3,C,
+Ogrekiller,Selepation Cave,1,Boss,1
+Ogrekiller,Selepation Cave,3,Boss,4
+Ogrekiller,Daemon's Court,2,Boss,4
+Ogrekiller,Daemon's Court,3,Boss,2
+Ogrekiller,Conall Curach,2,Boss,3
+Ogrekiller,Conall Curach,3,Boss,1
+Ogrekiller,Rebena Te Ra,2,Boss,4
+Ogrekiller,Rebena Te Ra,3,Boss,2
+Ogrekiller,Lynari Desert,2,C,
+Ogrekiller,Lynari Desert,2,Boss,4
+Ogrekiller,Lynari Desert,3,C,
+Ogrekiller,Lynari Desert,3,Boss,2
+Onion Sword,The Mine of Cathuriges,3,Boss,4
+Onion Sword,Veo Lu Sluice,3,C,
+Onion Sword,Selepation Cave,3,C,
+Onion Sword,Daemon's Court,3,C,
+Onion Sword,Rebena Te Ra,3,C,
+Onion Sword,Kilanda,3,M,
+Power Wristband,Tida,3,Boss,3
+Power Wristband,Moschet Manor,3,Boss,3
+Power Wristband,Veo Lu Sluice,1,C,
+Power Wristband,Veo Lu Sluice,2,C,
+Power Wristband,Selepation Cave,1,C,
+Power Wristband,Selepation Cave,1,Boss,4
+Power Wristband,Selepation Cave,2,C,
+Power Wristband,Selepation Cave,2,Boss,2
+Power Wristband,Daemon's Court,1,C,
+Power Wristband,Rebena Te Ra,1,C,
+Power Wristband,Kilanda,1,M,
+Power Wristband,Kilanda,1,Boss,2
+Rat's Tail,Veo Lu Sluice,2,C,
+Rat's Tail,Veo Lu Sluice,2,Boss,3
+Rat's Tail,Veo Lu Sluice,3,C,
+Rat's Tail,Veo Lu Sluice,3,Boss,1
+Rat's Tail,Selepation Cave,2,C,
+Rat's Tail,Selepation Cave,3,C,
+Rat's Tail,Daemon's Court,1,Boss,3
+Rat's Tail,Daemon's Court,2,C,
+Rat's Tail,Daemon's Court,2,Boss,1
+Rat's Tail,Daemon's Court,3,C,
+Rat's Tail,Conall Curach,1,Boss,1
+Rat's Tail,Conall Curach,1,Boss,4
+Rat's Tail,Conall Curach,2,Boss,2
+Red Slippers,Goblin Wall,2,Boss,3
+Red Slippers,Goblin Wall,3,Boss,1
+Red Slippers,Moschet Manor,1,Boss,2
+Red Slippers,Moschet Manor,2,C,
+Red Slippers,Moschet Manor,3,C,
+Red Slippers,Veo Lu Sluice,2,C,
+Red Slippers,Veo Lu Sluice,3,C,
+Red Slippers,Daemon's Court,3,Boss,4
+Red Slippers,Conall Curach,2,C,
+Red Slippers,Conall Curach,3,C,
+Red Slippers,Conall Curach,3,Boss,3
+Red Slippers,Rebena Te Ra,3,Boss,3
+Red Slippers,Kilanda,2,M,
+Red Slippers,Kilanda,2,Boss,3
+Red Slippers,Kilanda,3,M,
+Red Slippers,Kilanda,3,Boss,1
+Red Slippers,Lynari Desert,3,Boss,3
+Ribbon,Rebena Te Ra,3,Boss,4
+Ring of Blizzard,Veo Lu Sluice,1,M,
+Ring of Blizzard,Veo Lu Sluice,1,Boss,1
+Ring of Blizzard,Veo Lu Sluice,1,Boss,4
+Ring of Blizzard,Veo Lu Sluice,2,M,
+Ring of Blizzard,Veo Lu Sluice,2,Boss,2
+Ring of Blizzard,Veo Lu Sluice,2,Boss,4
+Ring of Blizzard,Veo Lu Sluice,3,M,
+Ring of Blizzard,Veo Lu Sluice,3,Boss,2
+Ring of Cure,Conall Curach,1,C,
+Ring of Cure,Conall Curach,1,Boss,2
+Ring of Cure,Conall Curach,1,Boss,4
+Ring of Cure,Conall Curach,2,C,
+Ring of Cure,Conall Curach,2,Boss,2
+Ring of Cure,Conall Curach,2,Boss,4
+Ring of Cure,Conall Curach,3,C,
+Ring of Cure,Conall Curach,3,Boss,2
+Ring of Fire,Kilanda,1,M,
+Ring of Fire,Kilanda,1,Boss,3
+Ring of Fire,Kilanda,1,Boss,4
+Ring of Fire,Kilanda,2,M,
+Ring of Fire,Kilanda,2,Boss,1
+Ring of Fire,Kilanda,2,Boss,2
+Ring of Fire,Kilanda,2,Boss,4
+Ring of Fire,Kilanda,3,M,
+Ring of Fire,Kilanda,3,Boss,2
+Ring of Life,Conall Curach,3,Boss,4
+Ring of Protection,Selepation Cave,3,Boss,4
+Ring of Thunder,Selepation Cave,1,C,
+Ring of Thunder,Selepation Cave,1,Boss,2
+Ring of Thunder,Selepation Cave,1,Boss,4
+Ring of Thunder,Selepation Cave,2,C,
+Ring of Thunder,Selepation Cave,2,Boss,2
+Ring of Thunder,Selepation Cave,3,C,
+Ring of Thunder,Selepation Cave,3,Boss,3
+Rune Bell,River Belle Path,3,M,
+Rune Bell,Goblin Wall,3,C,
+Rune Bell,The Mushroom Forest,3,C,
+Rune Bell,Tida,2,Boss,4
+Rune Bell,Tida,3,C,
+Rune Bell,Tida,3,Boss,2
+Rune Bell,Selepation Cave,1,Boss,2
+Rune Bell,Selepation Cave,2,C,
+Rune Bell,Selepation Cave,3,C,
+Rune Bell,Daemon's Court,2,Boss,3
+Rune Bell,Daemon's Court,3,Boss,1
+Rune Bell,Conall Curach,1,Boss,4
+Rune Bell,Conall Curach,2,Boss,2
+Rune Bell,Rebena Te Ra,1,C,
+Rune Bell,Rebena Te Ra,1,Boss,4
+Rune Bell,Rebena Te Ra,2,C,
+Rune Bell,Rebena Te Ra,2,Boss,2
+Rune Bell,Kilanda,3,Boss,4
+Rune Bell,Lynari Desert,1,Boss,4
+Rune Bell,Lynari Desert,2,Boss,2
+Rune Staff,Tida,3,C,
+Rune Staff,Moschet Manor,1,C,
+Rune Staff,Moschet Manor,1,Boss,1
+Rune Staff,Selepation Cave,1,Boss,4
+Rune Staff,Selepation Cave,2,Boss,2
+Rune Staff,Daemon's Court,1,C,
+Rune Staff,Rebena Te Ra,1,C,
+Sage's Staff,River Belle Path,2,M,
+Sage's Staff,River Belle Path,3,M,
+Sage's Staff,Goblin Wall,2,C,
+Sage's Staff,Goblin Wall,3,C,
+Sage's Staff,The Mushroom Forest,1,Boss,3
+Sage's Staff,The Mushroom Forest,2,C,
+Sage's Staff,The Mushroom Forest,2,Boss,1
+Sage's Staff,The Mushroom Forest,3,C,
+Sage's Staff,The Mine of Cathuriges,2,M,
+Sage's Staff,The Mine of Cathuriges,3,M,
+Sage's Staff,Moschet Manor,2,Boss,3
+Sage's Staff,Moschet Manor,3,Boss,1
+Sage's Staff,Veo Lu Sluice,1,Boss,2
+Sage's Staff,Veo Lu Sluice,2,C,
+Sage's Staff,Veo Lu Sluice,3,C,
+Sage's Staff,Selepation Cave,3,Boss,3
+Sage's Staff,Conall Curach,1,Boss,1
+Sage's Staff,Conall Curach,2,C,
+Sage's Staff,Conall Curach,3,C,
+Sage's Staff,Rebena Te Ra,1,Boss,1
+Sage's Staff,Kilanda,1,M,
+Sage's Staff,Kilanda,2,M,
+Sage's Staff,Lynari Desert,1,Boss,1
+Sasuke's Blade,River Belle Path,2,Boss,4
+Sasuke's Blade,River Belle Path,3,M,
+Sasuke's Blade,River Belle Path,3,Boss,2
+Sasuke's Blade,Goblin Wall,3,C,
+Sasuke's Blade,The Mushroom Forest,2,Boss,3
+Sasuke's Blade,The Mushroom Forest,3,C,
+Sasuke's Blade,The Mushroom Forest,3,Boss,1
+Sasuke's Blade,The Mine of Cathuriges,2,Boss,3
+Sasuke's Blade,The Mine of Cathuriges,3,M,
+Sasuke's Blade,The Mine of Cathuriges,3,Boss,1
+Sasuke's Blade,Selepation Cave,2,Boss,3
+Sasuke's Blade,Selepation Cave,3,Boss,1
+Sasuke's Blade,Conall Curach,2,Boss,4
+Sasuke's Blade,Conall Curach,3,Boss,2
+Save the Queen,River Belle Path,3,Boss,4
+Shuriken,River Belle Path,1,M,
+Shuriken,River Belle Path,1,Boss,1
+Shuriken,River Belle Path,3,Boss,3
+Shuriken,Goblin Wall,1,C,
+Shuriken,The Mushroom Forest,1,C,
+Shuriken,The Mushroom Forest,1,Boss,1
+Shuriken,The Mine of Cathuriges,1,M,
+Shuriken,The Mine of Cathuriges,1,Boss,1
+Shuriken,Moschet Manor,1,C,
+Shuriken,Veo Lu Sluice,1,Boss,4
+Shuriken,Veo Lu Sluice,2,Boss,2
+Shuriken,Daemon's Court,1,Boss,2
+Shuriken,Rebena Te Ra,1,C,
+Silver Bracer,River Belle Path,1,M,
+Silver Bracer,River Belle Path,1,Boss,4
+Silver Bracer,River Belle Path,2,M,
+Silver Bracer,River Belle Path,2,Boss,2
+Silver Bracer,Goblin Wall,1,C,
+Silver Bracer,Goblin Wall,2,C,
+Silver Bracer,The Mushroom Forest,1,C,
+Silver Bracer,The Mushroom Forest,1,Boss,4
+Silver Bracer,The Mushroom Forest,2,C,
+Silver Bracer,The Mushroom Forest,2,Boss,2
+Silver Bracer,The Mushroom Forest,3,Boss,3
+Silver Bracer,The Mine of Cathuriges,1,M,
+Silver Bracer,The Mine of Cathuriges,1,Boss,4
+Silver Bracer,The Mine of Cathuriges,2,M,
+Silver Bracer,The Mine of Cathuriges,2,Boss,2
+Silver Bracer,Tida,1,C,
+Silver Bracer,Tida,2,C,
+Silver Bracer,Tida,3,Boss,3
+Silver Bracer,Veo Lu Sluice,1,C,
+Silver Bracer,Veo Lu Sluice,1,Boss,1
+Silver Bracer,Veo Lu Sluice,2,C,
+Silver Bracer,Rebena Te Ra,1,C,
+Silver Bracer,Kilanda,1,Boss,3
+Silver Bracer,Kilanda,2,Boss,1
+Silver Bracer,Lynari Desert,1,C,
+Silver Bracer,Lynari Desert,2,C,
+Silver Spectacles,River Belle Path,1,C,
+Silver Spectacles,River Belle Path,1,Boss,2
+Silver Spectacles,River Belle Path,1,Boss,4
+Silver Spectacles,River Belle Path,2,C,
+Silver Spectacles,River Belle Path,2,Boss,2
+Silver Spectacles,River Belle Path,3,C,
+Silver Spectacles,River Belle Path,3,Boss,3
+Silver Spectacles,Goblin Wall,1,C,
+Silver Spectacles,Goblin Wall,2,C,
+Silver Spectacles,The Mushroom Forest,1,C,
+Silver Spectacles,The Mushroom Forest,1,Boss,2
+Silver Spectacles,The Mushroom Forest,2,C,
+Silver Spectacles,The Mine of Cathuriges,1,C,
+Silver Spectacles,The Mine of Cathuriges,1,Boss,2
+Silver Spectacles,The Mine of Cathuriges,2,C,
+Silver Spectacles,Moschet Manor,1,Boss,2
+Silver Spectacles,Veo Lu Sluice,1,Boss,2
+Silver Spectacles,Selepation Cave,1,Boss,2
+Silver Spectacles,Daemon's Court,1,Boss,2
+Silver Spectacles,Rebena Te Ra,1,C,
+Sparkling Bracer,Goblin Wall,1,Boss,1
+Sparkling Bracer,Goblin Wall,1,Boss,2
+Sparkling Bracer,Goblin Wall,1,Boss,4
+Sparkling Bracer,Goblin Wall,2,Boss,2
+Sparkling Bracer,Goblin Wall,3,Boss,4
+Sparkling Bracer,Tida,1,C,
+Sparkling Bracer,Tida,1,Boss,2
+Sparkling Bracer,Tida,1,Boss,4
+Sparkling Bracer,Tida,2,Boss,2
+Sparkling Bracer,Moschet Manor,1,C,
+Sparkling Bracer,Veo Lu Sluice,1,Boss,4
+Sparkling Bracer,Veo Lu Sluice,2,Boss,2
+Sparkling Bracer,Selepation Cave,1,Boss,3
+Sparkling Bracer,Selepation Cave,2,Boss,1
+Sparkling Bracer,Daemon's Court,1,Boss,4
+Sparkling Bracer,Daemon's Court,2,Boss,2
+Sparkling Bracer,Conall Curach,1,C,
+Star Pendant,Conall Curach,1,C,
+Star Pendant,Conall Curach,1,Boss,3
+Star Pendant,Conall Curach,2,C,
+Star Pendant,Conall Curach,2,Boss,1
+Star Pendant,Conall Curach,2,Boss,3
+Star Pendant,Conall Curach,3,C,
+Star Pendant,Conall Curach,3,Boss,1
+Star Pendant,Rebena Te Ra,1,C,
+Star Pendant,Rebena Te Ra,1,Boss,1
+Star Pendant,Rebena Te Ra,1,Boss,3
+Star Pendant,Rebena Te Ra,2,C,
+Star Pendant,Rebena Te Ra,2,Boss,1
+Star Pendant,Rebena Te Ra,3,C,
+Star Pendant,Kilanda,1,Boss,2
+Star Pendant,Kilanda,2,Boss,3
+Star Pendant,Kilanda,3,M,
+Star Pendant,Kilanda,3,Boss,1
+Star Pendant,Lynari Desert,1,C,
+Star Pendant,Lynari Desert,1,Boss,1
+Star Pendant,Lynari Desert,1,Boss,4
+Star Pendant,Lynari Desert,2,C,
+Star Pendant,Lynari Desert,2,Boss,2
+Star Pendant,Lynari Desert,3,C,
+Sun Pendant,Lynari Desert,3,Boss,4
+Taotie Motif,Veo Lu Sluice,3,Boss,4
+Teddy Bear,Selepation Cave,1,Boss,4
+Teddy Bear,Selepation Cave,2,Boss,2
+Teddy Bear,Conall Curach,1,Boss,2
+Teddy Bear,Conall Curach,2,C,
+Teddy Bear,Conall Curach,2,Boss,3
+Teddy Bear,Conall Curach,3,C,
+Teddy Bear,Conall Curach,3,Boss,1
+Teddy Bear,Rebena Te Ra,2,C,
+Teddy Bear,Rebena Te Ra,3,C,
+Teddy Bear,Kilanda,3,M,
+Teddy Bear,Lynari Desert,2,C,
+Teddy Bear,Lynari Desert,3,C,
+Tome of Ultima,Veo Lu Sluice,3,C,
+Tome of Ultima,Selepation Cave,3,C,
+Tome of Ultima,Daemon's Court,3,C,
+Tome of Ultima,Conall Curach,3,C,
+Tome of Ultima,Conall Curach,3,Boss,4
+Tome of Ultima,Lynari Desert,3,C,
+Tome of Ultima,Lynari Desert,3,Boss,4
+Twisted Headband,Tida,1,Boss,1
+Twisted Headband,Veo Lu Sluice,1,C,
+Twisted Headband,Veo Lu Sluice,2,C,
+Twisted Headband,Selepation Cave,1,C,
+Twisted Headband,Selepation Cave,2,C,
+Twisted Headband,Selepation Cave,2,Boss,4
+Twisted Headband,Selepation Cave,3,Boss,2
+Twisted Headband,Daemon's Court,1,C,
+Twisted Headband,Conall Curach,3,Boss,3
+Twisted Headband,Rebena Te Ra,3,Boss,4
+Twisted Headband,Kilanda,2,M,
+Twisted Headband,Kilanda,3,M,
+Twisted Headband,Kilanda,3,Boss,3
+Twisted Headband,Lynari Desert,3,Boss,4
+Ultimate Pocket,The Mine of Cathuriges,3,Boss,3
+Winged Cap,Goblin Wall,1,Boss,1
+Winged Cap,The Mine of Cathuriges,3,Boss,4
+Winged Cap,Moschet Manor,1,C,
+Winged Cap,Moschet Manor,2,C,
+Winged Cap,Veo Lu Sluice,3,Boss,3
+Winged Cap,Daemon's Court,1,Boss,1
+Winged Cap,Rebena Te Ra,1,C,
+Winged Cap,Rebena Te Ra,2,C,
+Wonder Bangle,River Belle Path,2,Boss,3
+Wonder Bangle,River Belle Path,3,C,
+Wonder Bangle,River Belle Path,3,Boss,1
+Wonder Bangle,Goblin Wall,3,C,
+Wonder Bangle,Goblin Wall,3,Boss,3
+Wonder Bangle,The Mushroom Forest,2,Boss,3
+Wonder Bangle,The Mushroom Forest,2,Boss,4
+Wonder Bangle,The Mushroom Forest,3,C,
+Wonder Bangle,The Mushroom Forest,3,Boss,1
+Wonder Bangle,The Mushroom Forest,3,Boss,2
+Wonder Bangle,The Mine of Cathuriges,2,Boss,3
+Wonder Bangle,The Mine of Cathuriges,2,Boss,4
+Wonder Bangle,The Mine of Cathuriges,3,C,
+Wonder Bangle,The Mine of Cathuriges,3,Boss,1
+Wonder Bangle,The Mine of Cathuriges,3,Boss,2
+Wonder Bangle,Tida,2,Boss,3
+Wonder Bangle,Tida,2,Boss,4
+Wonder Bangle,Tida,3,C,
+Wonder Bangle,Tida,3,Boss,1
+Wonder Bangle,Tida,3,Boss,2
+Wonder Bangle,Moschet Manor,2,Boss,4
+Wonder Bangle,Moschet Manor,3,C,
+Wonder Bangle,Moschet Manor,3,Boss,2
+Wonder Bangle,Daemon's Court,2,Boss,3
+Wonder Bangle,Daemon's Court,3,Boss,1
+Wonder Bangle,Lynari Desert,2,Boss,4
+Wonder Bangle,Lynari Desert,3,C,
+Wonder Bangle,Lynari Desert,3,Boss,2
+Wonder Wand,Goblin Wall,1,Boss,2
+Wonder Wand,Moschet Manor,1,C,
+Wonder Wand,Moschet Manor,2,C,
+Wonder Wand,Veo Lu Sluice,2,Boss,3
+Wonder Wand,Veo Lu Sluice,3,Boss,1
+Wonder Wand,Selepation Cave,1,C,
+Wonder Wand,Selepation Cave,2,C,
+Wonder Wand,Selepation Cave,3,Boss,4
+Wonder Wand,Daemon's Court,1,Boss,2
+Wonder Wand,Conall Curach,1,Boss,3
+Wonder Wand,Conall Curach,2,Boss,1
+Wonder Wand,Rebena Te Ra,1,Boss,3
+Wonder Wand,Rebena Te Ra,2,Boss,1
+Wonder Wand,Kilanda,3,M,
+Wonder Wand,Kilanda,3,Boss,3
+Wonder Wand,Lynari Desert,1,C,
+Wonder Wand,Lynari Desert,1,Boss,3
+Wonder Wand,Lynari Desert,2,C,
+Wonder Wand,Lynari Desert,2,Boss,1

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrystalChroniclesArtiTracker", "CrystalChroniclesArtiTracker\CrystalChroniclesArtiTracker.csproj", "{7C508A26-6153-49B7-888C-6808240CB63A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{7B4526DB-CB00-4109-A74A-0EA83FD05E6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C508A26-6153-49B7-888C-6808240CB63A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C508A26-6153-49B7-888C-6808240CB63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C508A26-6153-49B7-888C-6808240CB63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C508A26-6153-49B7-888C-6808240CB63A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B4526DB-CB00-4109-A74A-0EA83FD05E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4526DB-CB00-4109-A74A-0EA83FD05E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B4526DB-CB00-4109-A74A-0EA83FD05E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4526DB-CB00-4109-A74A-0EA83FD05E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8CC6E4E-2E4B-4F3A-8DE0-624FA15651B4}
+	EndGlobalSection
+EndGlobal
