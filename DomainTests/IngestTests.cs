@@ -32,9 +32,14 @@ namespace DomainTests
             foreach (var dungeon in dungeons)
             {
                 Assert.IsFalse(string.IsNullOrEmpty(dungeon.Name));
-                Assert.IsNotNull(dungeon.Cycles[0]);
-                Assert.IsNotNull(dungeon.Cycles[1]);
-                Assert.IsNotNull(dungeon.Cycles[2]);
+                foreach (var cycle in dungeon.Cycles)
+                {
+                    Assert.IsNotNull(cycle);
+                    //Assert.AreEqual(4, cycle.BossTier1.Count);
+                    //Assert.AreEqual(4, cycle.BossTier2.Count);
+                    //Assert.AreEqual(4, cycle.BossTier3.Count);
+                    //Assert.AreEqual(4, cycle.BossTier4.Count);
+                }
             }
         }
     }
