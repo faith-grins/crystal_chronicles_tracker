@@ -1,6 +1,8 @@
-﻿namespace Domain.Model
+﻿using System;
+
+namespace Domain.Model
 {
-    public class Area
+    public class Area : IComparable
     {
         public string Name { get; set; }
         public Cycle[] Cycles { get; set; }
@@ -13,9 +15,24 @@
         {
             Name = name;
             Cycles = new Cycle[3];
-            Cycles[0] = new Cycle();
-            Cycles[1] = new Cycle();
-            Cycles[2] = new Cycle();
+            Cycles[0] = new Cycle(1);
+            Cycles[1] = new Cycle(2);
+            Cycles[2] = new Cycle(3);
+        }
+
+        public override string ToString()
+        {
+            return Name;
+        }
+
+        public int CompareTo(object obj)
+        {
+            var comparingArea = obj as Area;
+            if (comparingArea == null)
+            {
+                return 1;
+            }
+            return Name.CompareTo(comparingArea.Name);
         }
     }
 }

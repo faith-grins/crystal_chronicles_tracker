@@ -46,7 +46,7 @@ namespace Domain
                 }
                 var cycle = int.Parse(drop[2]) - 1;
                 var artifact = artifacts.Where(a => a.Name == drop[0]).FirstOrDefault();
-                if (cycle > 0 && artifact != null)
+                if (cycle > -1 && cycle < 4 && artifact != null)
                 {
                     switch (drop[3])
                     {
@@ -80,7 +80,13 @@ namespace Domain
                     } 
                 }
             }
+            dungeonsList.Sort();
             return dungeonsList;
+        }
+
+        public static IList<Character> GetCharacters()
+        {
+            return new List<Character>();
         }
     }
 }

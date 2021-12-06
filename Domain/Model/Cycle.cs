@@ -10,9 +10,11 @@ namespace Domain.Model
         public List<Artifact> BossTier2 { get; set; }
         public List<Artifact> BossTier3 { get; set; }
         public List<Artifact> BossTier4 { get; set; }
+        public int Number { get; set; }
 
-        public Cycle()
+        public Cycle(int cycleNumber)
         {
+            Number = cycleNumber;
             Chests = new List<Artifact>();
             Drops = new List<Artifact>();
             BossTier1 = new List<Artifact>();
