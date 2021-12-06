@@ -59,5 +59,23 @@ namespace Domain {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Name,Dungeon,Cycle,Type,BonusTier        ///Aegis,Daemon&apos;s Court,3,Boss,4        ///Ashura,Goblin Wall,1,Boss,3        ///Ashura,Goblin Wall,2,Boss,1        ///Ashura,The Mushroom Forest,3,Boss,4        ///Ashura,Tida,1,C,        ///Ashura,Moschet Manor,1,C,        ///Ashura,Veo Lu Sluice,1,C,        ///Ashura,Selepation Cave,1,Boss,2        ///Ashura,Lynari Desert,1,C,        ///Black Hood,River Belle Path,2,C,        ///Black Hood,River Belle Path,2,Boss,4        ///Black Hood,River Belle Path,3,C,        ///Black Hood,River Belle Path,3,Boss,2        ///Black Hood,Goblin Wall,2,C,        ///Black Hood,Goblin Wall,3,C,        ///Black Hood,The Mushroom Forest,1, [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string artifact_drops {
+            get {
+                return ResourceManager.GetString("artifact_drops", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Name,Attribute,Value        ///Aegis,Defense,5        ///Ashura,Strength,1        ///Black Hood,Defense,2        ///Book of Light,Magic,1        ///Buckler,Defense,1        ///Candy Ring,Magic,1        ///Cat&apos;s Bell,Magic,1        ///Chicken Knife,Defense,3        ///Chocobo Pocket,Slot,1        ///Dark Matter,Magic,5        ///Double Axe,Strength,1        ///Dragon&apos;s Wisker,Magic,1        ///Drill,Defense,1        ///Earth Pendant,Heart,1        ///Elven Mantle,Defense,2        ///Engetsurin,Strength,2        ///Faerie Ring,Magic,1        ///Fang Charm,Strength,1        ///Flametongue,Strength,2        ///Galatyn,Magic,7        ///Gekkabijin,Strength,5        ///Giant&apos;s Glove,Strength,3        ///Goblin Pocket,Slot,1        ///Gold Hairpin,M [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string artifact_values {
+            get {
+                return ResourceManager.GetString("artifact_values", resourceCulture);
+            }
+        }
     }
 }
