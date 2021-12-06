@@ -13,6 +13,9 @@
         {
             Name = name;
             Cycles = new Cycle[3];
+            Cycles[0] = new Cycle();
+            Cycles[1] = new Cycle();
+            Cycles[2] = new Cycle();
         }
     }
 }
