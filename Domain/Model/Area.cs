@@ -15,9 +15,9 @@ namespace Domain.Model
         {
             Name = name;
             Cycles = new Cycle[3];
-            Cycles[0] = new Cycle(1);
-            Cycles[1] = new Cycle(2);
-            Cycles[2] = new Cycle(3);
+            Cycles[0] = new Cycle(1, Name);
+            Cycles[1] = new Cycle(2, Name);
+            Cycles[2] = new Cycle(3, Name);
         }
 
         public override string ToString()
